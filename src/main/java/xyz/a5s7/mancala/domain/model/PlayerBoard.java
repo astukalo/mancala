@@ -3,7 +3,6 @@ package xyz.a5s7.mancala.domain.model;
 import lombok.Getter;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
