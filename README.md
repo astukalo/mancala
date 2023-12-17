@@ -46,6 +46,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"playerName":"Anton"}' htt
 This will return a player id, which will be used to register the player in a game.
 Remember the player id, as it will be used to join a game.
 Do not share the player id with other players as they can use it to make moves on your behalf.
+Players can play multiple games at the same time and start a new game at any time.
 
 To get a player by name:
 ```
