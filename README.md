@@ -1,7 +1,7 @@
 # Mancala game web application
 
 ## Description
-This is a REST service to play Mancala game.
+This is a REST service to play [Mancala](https://www.wikihow.com/Play-Kalaha) game.
 The game is played by two players, each with a row of six holes, and a store to the right.
 
 ### Game Play:
